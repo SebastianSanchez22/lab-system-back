@@ -1,0 +1,13 @@
+.Python
+env/
+node_modules/
+docs/
+build/
+dist/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+src/venv
+Pipfile*
+env_local
